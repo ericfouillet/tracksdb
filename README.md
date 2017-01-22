@@ -1,2 +1,2 @@
 # tracksdb
-Basic CRUD application
+Basic CRUD application. For educational purposes only.
